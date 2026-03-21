@@ -7,7 +7,7 @@
 	</a>
 	<br>
 	<br>
-	<p>A list of LLM API providers with permanent free tiers. No trials, no credit card.</p>
+	<p>LLM APIs with permanent free tiers for text inference.</p>
 	<br>
 	<br>
 </div>
@@ -16,8 +16,6 @@
 
 - [Provider APIs](#provider-apis)
 - [Inference providers](#inference-providers)
-- [Legend](#legend)
-- [Contributing](#contributing)
 
 ## Provider APIs
 
@@ -42,14 +40,13 @@ Third-party platforms that host open-weight models from various sources.
 - [OpenRouter](https://openrouter.ai/keys) 🇺🇸 - DeepSeek R1, Llama 3.3 70B, GPT-OSS-120B +29 more. 20 RPM, 50 RPD.
 - [Hugging Face](https://huggingface.co/settings/tokens) 🇺🇸 - Llama 3.3 70B, Qwen2.5 72B, Mistral 7B +many more. $0.10/mo in free credits.
 
-## Legend
-
-- **RPM** -- requests per minute.
-- **RPD** -- requests per day.
-- "Limits undocumented" means the provider doesn't publish their rate limits.
-- All endpoints are OpenAI SDK-compatible unless noted.
-- Each link points to the provider's API key page.
-
 ## Contributing
 
 Know a free tier that's missing? [Open a PR](contributing.md). Include the provider, endpoint, rate limits (link to their docs), and a few notable models. Trial credits and time-limited promos don't count.
+
+## Footnotes
+
+- **RPM** -- requests per minute. **RPD** -- requests per day.
+- "Limits undocumented" means the provider doesn't publish their rate limits.
+- All endpoints are OpenAI SDK-compatible unless noted.
+- Each link points to the provider's API key page.
