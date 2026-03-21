@@ -30,7 +30,7 @@ APIs run by the companies that train or fine-tune the models themselves.
 
 Third-party platforms that host open-weight models from various sources.
 
-- [GitHub Models](https://github.com/settings/tokens) 🇺🇸 - GPT-4o, Llama 3.3 70B, DeepSeek-R1 +37 more. Tier-based limits.
+- [GitHub Models](https://github.com/marketplace/models) 🇺🇸 - GPT-4o, Llama 3.3 70B, DeepSeek-R1 +more. 10-15 RPM, 50-150 RPD.
 - [NVIDIA NIM](https://build.nvidia.com/explore/discover) 🇺🇸 - Llama 3.3 70B, Mistral Large, Qwen3 235B +more. 40 RPM.
 - [Groq](https://console.groq.com/keys) 🇺🇸 - Llama 3.3 70B, Llama 4 Scout, Kimi K2 +17 more. 30 RPM, 14,400 RPD.
 - [Cerebras](https://cloud.cerebras.ai/) 🇺🇸 - Llama 3.3 70B, Qwen3 235B, GPT-OSS-120B +3 more. 30 RPM, 14,400 RPD.
